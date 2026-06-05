@@ -1,5 +1,8 @@
 package org.udc.modelo;
 
+import org.udc.enums.EstadoSolicitud;
+import org.udc.enums.TipoPaquete;
+
 import java.util.Objects;
 //Nuestra clase modelo
 public class SolicitudViaje {
